@@ -18,13 +18,13 @@ def teach_yourself(anything):
         learn()
         practice()
     return teach_yourself(another)
+    end
 
 teach_yourself(coding)
 ```
 
 请先行阅读 [T-appendix.jupyter-installation-and-setup](T-appendix.jupyter-installation-and-setup.ipynb) 以便在本地安装 [Jupyterlab](https://github.com/jupyterlab/jupyterlab) 而后就能用更好的体验阅读本书。
 
-proof of work 工作证明
 
 有兴趣帮忙的朋友，请先行阅读 [如何使用 Pull Request 为这本书校对](02.proof-of-work.ipynb)。
 
